@@ -36,7 +36,7 @@ while true; do
             exit 0
             ;;
         *)
-            echo "入力が間違えています。Add Password/Get Password/Exit から入力してください。"
+            echo "入力を間違えています。Add Password/Get Password/Exit から入力してください。"
             ;;
     esac
 done
